@@ -1,15 +1,15 @@
 {
   "name": "suhail-md@1.2.8",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "description": "I am Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐ Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "hellboy", "hellboy bot", "Hellboy", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "description": "Bot ke owner ka name likh bsdk🤡",    
+      "value": "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
       "required" :true
     },   
      
@@ -25,19 +25,19 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": "Bot ke liye😾Sexy'🥵name likh lwde🥵💦",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "🤡)-ཌꜱᴜᴋᴜɴᴀད-(🤡"
     }, 
     "IMAGE": {
-      "description": "Image for bot",
+      "description": "bot ke liye😾image ka url dal🥵aaram se💦",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://i.imgur.com/KdU2F44.jpeg"
     }, 
     "TZ": {
-      "description": "Put TIME_ZONE according to your location",
+      "description": "Put TIME_ZONE according to your⚡🥲location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "India/kolkata"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -47,50 +47,50 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
-      "value": "3"
+      "value": "2"
     }, 
     "READ_COMMAND": {
-      "description": " Read bot cmds",
+      "description": "Read bot cmds? isko false rkh😚",
       "required" :false,    
       "value": "false"
     }, 
     "AUTO_SAVE_STATUS": {
-      "description": " Auto save whatsapp status", 
+      "description": " Auto save whatsapp status? false krde isko bhi", 
       "required" :false,   
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
+      "description": "Put Your Heroku Api Key Here🌚💋",
       "value": "",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
-      "description": "Put Your Heroku App Name Here",
+      "description": "Put Your Heroku App Name Here,jo sbse uper app name likha tha",
       "value": "",
     "required" :true
     }, 
     "WAPRESENCE": {
-      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
+      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for show always😂typing) | 'recording' | 'paused' ",
       "required" :false,
       "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
-      "description": "Fill the value true if you want bot view your Statuses.",
+      "description": "auto view status ke liye true/false kr. lekin bkl false rkhna isko,ye dimag ka bharosa kr deta hai😾💦",
       "required" :false,
-      "value": "true"
+      "value": "false"
     }, 
     "MSGS_IN_LOG": {
-      "description": "Fill the value true if you want to see Messages in Console.",
+      "description": "Hmesha false rkhna apni safety ke liye. wrna lode lgne mai jyada time nhi lgta🤡🌚.",
       "required" :false,
       "value": "false"
     },
     "READ_MESSAGE": {
-      "description": "Fill the value true if you want bot to read all messages.",
+      "description": "auto read msg hai ye😾lode lgne se bchna hai to false rkh ise.🤡",
       "required" :false,
       "value": "false"
     },
     "DISABLE_PM": {
-      "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
+      "description": "Disable bot in DM, Take it false if you wanna run bot in your pm (if MODE is Public)",
       "value": "false",
       "required" :false
     },
@@ -100,10 +100,10 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "916395556592,918318542882"
     },
     "SESSION_ID": {
-      "description": "put your SESSION_ID here.",
+      "description": "yha pe SESSION_ID dal bsdk💦😾,ab hr cheez smjhau kya bc😂.",
       "value": ""
   
     },
@@ -119,21 +119,25 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "jy8U3ZFDxmVVhfUJzApQgdPc",
       "required" :false
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
-      "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "description": "Put Sticker Pack_Name💦.",
+      "value": ".
+       (\____/)
+       ( ͡ ⚫͜ ʖ͡⚫
+        \ 👉🏼    \  👉🏼
+     Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐ and ➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈💕😾",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "—͟͞͞★Ꭺ𝕝𝕝ԑ𝒏—͟͞͞★",
       "required": false 
     }
   }, 
