@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/gopaljaat/Hellboy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=916395556592&env[MONGODB_URI]&&env[OWNER_NAME]=Hellboy&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Hellboy+MD&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=Hellboy_Allen&env[WARN_COUNT]=2&env[BLOCK_JID]=null&env[TIME_ZONE]=India/kolkata&name=Hellboy&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/KdU2F44.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/gopaljaat/Hellboy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=916395556592&env[MONGODB_URI]&&env[OWNER_NAME]=Hellboy&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Hellboy+MD&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍_✰_𝐎𝐁𝐄𝐑𝐎𝐈𝐈&env[WARN_COUNT]=2&env[BLOCK_JID]=null&env[TIME_ZONE]=India/kolkata&name=Hellboy&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/KdU2F44.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -92,7 +92,7 @@
 3.  ***Click [`FORK`](https://github.com/gopaljaat/Hellboy/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Baby Deploy on😍💦[`HEROKU For better use🥵⚡`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
+6.  ***Baby Deploy on😍💦[`HEROKU For better use🥵⚡`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fgopaljaat%2FHellboy)***
 7.  ***Deploy on [`Replit`](https://replit.com/github/gopaljaat/Hellboy)***
 8.  ***Don't Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/gopaljaat/Hellboy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=916395556592&env[MONGODB_URI]=mongodb+srv://Allen69:XEy6hObcrZgmeuEE@allen69.0qvegkr.mongodb.net/?retryWrites=true&w=majority&env[OWNER_NAME]=Hellboy&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Hell+boy&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=Hellboy&env[WARN_COUNT]=2&env[BLOCK_JID]=null&env[TIME_ZONE]=India/kolkata&name=Hellboy&env[KOYEB_NAME]=Hellboy&env[SUDO]=916395556592&env[THUMB_IMAGE]=https://i.imgur.com/KdU2F44.jpeg)***
@@ -109,7 +109,7 @@
 - [➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈💦for helping in create this bot⚡🥵](https://github.com/Arun696969) 
 
 
-The Hellboy is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The Hellboy is made available under the [GPL-3 license](https://github.com/gopaljaat/Hellboy/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE SUN LO BHAROSEWALO😾😂💦
