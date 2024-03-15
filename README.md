@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/gopaljaat/Hellboy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=916395556592&env[MONGODB_URI]&&env[OWNER_NAME]=Hellboy&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Hellboy+MD&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍_✰_𝐎𝐁𝐄𝐑𝐎𝐈𝐈&env[WARN_COUNT]=2&env[BLOCK_JID]=null&env[TIME_ZONE]=India/kolkata&name=Hellboy&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/KdU2F44.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/gopaljaat/Hellboy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=916395556592&env[MONGODB_URI]&&env[OWNER_NAME]=Hellboy&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Hellboy+MD&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=ㅤᎻᴇʟʟ 亗 Ᏼᴏʏ★࿐&env[WARN_COUNT]=2&env[BLOCK_JID]=null&env[TIME_ZONE]=India/kolkata&name=Hellboy&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/KdU2F44.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -106,7 +106,7 @@
 
 
 ### Thanks to
-- [➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈💦for helping in create this bot⚡🥵](https://github.com/Arun696969) 
+- [ㅤᎻᴇʟʟ 亗 Ᏼᴏʏ★࿐💦for helping in create this bot⚡🥵](https://github.com/Arun696969) 
 
 
 The Hellboy is made available under the [GPL-3 license](https://github.com/gopaljaat/Hellboy/blob/main/LICENCE).
