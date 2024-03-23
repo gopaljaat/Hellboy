@@ -33,7 +33,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || '5',  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || '3',  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "true";  // Make it "false" for disable WELCOME 
@@ -74,7 +74,7 @@ module.exports = {
   caption : process.env.CAPTION || "➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "𝐀𝐥𝐥𝐞𝐧😚𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
   botname : process.env.BOT_NAME  || "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
   ownername:process.env.OWNER_NAME|| "Mr. Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
 
