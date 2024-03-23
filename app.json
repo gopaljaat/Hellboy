@@ -25,7 +25,7 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": "😂NAME FOR BOT",
       "required" :false,    
       "value": "—͟͞͞★Ꭺ𝕝𝕝ԑ𝒏—͟͞͞★"
     }, 
@@ -45,17 +45,17 @@
       "value": "true"
     }, 
     "WARN_COUNT": {
-      "description": " Warn count for users to kick/block when warn limit exceed!",
+      "description": "⚡🥵Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
       "value": "2"
     }, 
     "READ_COMMAND": {
-      "description": " Read bot cmds",
+      "description": "😂Read bot cmds",
       "required" :false,    
       "value": "false"
     }, 
     "AUTO_SAVE_STATUS": {
-      "description": " Auto save whatsapp status", 
+      "description": "🥲Auto save whatsapp status", 
       "required" :false,   
       "value": "false"
     }, 
@@ -70,12 +70,12 @@
     "required" :true
     }, 
     "WAPRESENCE": {
-      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
+      "description": "Fill the value: 🥀⚡'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
       "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
-      "description": "Fill the value true if you want bot view your Statuses.",
+      "description": "Fill the value true if you want bot view your Statuses.⚡🥀BKL isko false rkha kr🙂💔",
       "required" :false,
       "value": "false"
     }, 
@@ -85,7 +85,7 @@
       "value": "false"
     },
     "READ_MESSAGE": {
-      "description": "Fill the value true if you want bot to read all messages.",
+      "description": "Fill the value false😒🥀",
       "required" :false,
       "value": "false"
     },
@@ -95,7 +95,7 @@
       "required" :false
     },
     "PREFIX": {
-      "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
+      "description": "Enter your desired prefix for bot.😚you can set `all | . | .!*`",
       "value": "."
     },
     "OWNER_NUMBER": {
@@ -114,12 +114,12 @@
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": " ",
+      "value": "0cdb1aed858329b9793413672094ce0d",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": " ",
+      "value": "jy8U3ZFDxmVVhfUJzApQgdPc",
       "required" :false
     },
     "MODE": {
@@ -133,7 +133,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈",
+      "value": "𝐀𝐥𝐥𝐞𝐧🥀𝐎𝐛𝐞𝐫𝐨𝐢𝐢⚡",
       "required": false 
     }
   }, 
