@@ -106,7 +106,7 @@
 
 
 ### Thanks to
-- [ㅤᎻᴇʟʟ 亗 Ᏼᴏʏ★࿐💦for helping in create this bot⚡🥵](https://github.com/Arun696969) 
+- [ㅤ⚡𝚫𝐋𝐋𝚵𝚴❤️𝚯𝚩𝚵𝚪𝚯𝚰𝚰💦for helping in create this bot⚡🥵](https://github.com/Arun696969) 
 
 
 The Hellboy is made available under the [GPL-3 license](https://github.com/gopaljaat/Hellboy/blob/main/LICENCE).
