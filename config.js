@@ -18,7 +18,7 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "India/kolkata";
-global.github=process.env.GITHUB|| "https://github.com/gopaljaat/Hellboy";
+global.github=process.env.GITHUB|| "https://github.com/Arun696969/Allen-Bot";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDqC5DKAwEiTORbX33i";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDqC5DKAwEiTORbX33i" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/KdU2F44.jpeg" ; // SET LOGO FOR IMAGE 
@@ -33,7 +33,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || '3',  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || '5',  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "true";  // Make it "false" for disable WELCOME 
@@ -71,12 +71,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.9",
-  caption : process.env.CAPTION || "➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "—͟͞͞⚡★Ꭺ𝕝𝕝ԑ𝒏—͟͞͞⚡★" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐀𝐥𝐥𝐞𝐧 𝐎𝐛𝐞𝐫𝐨𝐢𝐢 』```", //*『sᴜʙsᴄʀɪʙᴇ • 𝐀𝐥𝐥𝐞𝐧 𝐎𝐛𝐞𝐫𝐨𝐢𝐢⚡』*\n youtube.com/@Curious_hacker"),
  
   author : process.env.PACK_AUTHER|| "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
   packname: process.env.PACK_NAME || "𝐀𝐥𝐥𝐞𝐧😚𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
   botname : process.env.BOT_NAME  || "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
-  ownername:process.env.OWNER_NAME|| "Mr. Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
+  ownername:process.env.OWNER_NAME|| "Ꮋᴇʟʟ 亗 Ᏼᴏʏ★࿐",
 
 
   errorChat : process.env.ERROR_CHAT || "",
