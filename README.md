@@ -119,4 +119,4 @@ The Hellboy is made available under the [GPL-3 license](https://github.com/gopal
 - *Hellboy is not made [by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account. Samjh gye to achha hai 😾 Nhi smjh aaya to muh mai le aur aake chal.🤡💦*
 - *Use Hellboy bot at your own risk by keeping this warning in mind.*
-- [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2F%2FHellboy-)
+- [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fgopaljaat%2FHellboy-)
