@@ -23,7 +23,7 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Hellboy is free to use" href="https://youtube.com/@Curious_hacker" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="𝐀𝐥𝐥𝐞𝐧⚡𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -116,7 +116,7 @@ The Hellboy is made available under the [GPL-3 license](https://github.com/gopal
 </h2>
    
 ## 
-- *Hellboy is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Hellboy is not made [by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account. Samjh gye to achha hai 😾 Nhi smjh aaya to muh mai le aur aake chal.🤡💦*
 - *Use Hellboy bot at your own risk by keeping this warning in mind.*
-- [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)
+- [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2F%2FHellboy-)
